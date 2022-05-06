@@ -6,23 +6,6 @@ Hey, this is the start of my coding portfolio, I love coding and I want to start
 
 I went to college for Math Education and taught math for 4 year. During those year I was recruited to teach a low level coding course and the very next year I went to a technical school to become a full time coding instructor. Over 2 year I have completely revamped the coding curriculum and built out everything. 
 
-## Skills ( out of 4 )
-### Foundations
--- HTML ⭐⭐⭐⭐
--- CSS ⭐⭐⭐⭐
--- JS ⭐⭐⭐⭐
-### FrameWorks
--- Bootstrap ⭐⭐⭐
--- React ⭐
-### Database
--- SQL/MySQL ⭐⭐
--- MongoDB ⭐
-### Other Libraries
--- SASS ⭐⭐⭐
--- JSON ⭐⭐⭐
--- jQuery ⭐⭐
--- Node ⭐
-
 ## Version
 Updated April, 2021
 
